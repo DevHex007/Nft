@@ -87,17 +87,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Active User",
+    title: "ACTIVE USER",
     value: "0",
   },
   {
     id: "stats-2",
-    title: "NFTs minted",
+    title: "NFTs MINTED",
     value: "0",
   },
   {
     id: "stats-3",
-    title: "Minted NFTs value",
+    title: "MINTED NFTs VALUE",
     value: "$0",
   },
 ];
